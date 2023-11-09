@@ -12,24 +12,24 @@ author_profile: true
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
    
    * Presented at:
-     - *Workshop on Policy Evaluation - Universidad de Chile (scheduled)*
-     - *Chilean Public Policy Society Conference* (scheduled) (2023)
-     - *Royal Economic Society Conference for PhD Students* (2023)
-     - *Scottish Graduate Programme in Economics Conference (2022)*
-     - *Macro Reading Group and Ph.D. Seminar* (University of Edinburgh)
+     - *Workshop on Policy Evaluation* - Universidad de Chile (scheduled)
+     - *Conference* - Chilean Public Policy Society (scheduled) (2023)
+     - *Conference for PhD Students* - Royal Economic Society (2023)
+     - *Conference* - Scottish Graduate Programme in Economics (2022)
+     - *Macro Reading Group and Ph.D. Seminar* - University of Edinburgh
 
 3. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
  
    * Presented at:
-     - *Chilean Public Policy Society Conference* (scheduled) (2023)
-     - *Ph.D. Seminar* (University of Edinburgh)
+     - *Conference* - Chilean Public Policy Society (scheduled) (2023)
+     - *Ph.D. Seminar* - University of Edinburgh
 
 # Working papers - Social Capital
 
 1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/paper1.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
    * Presented at:
-     - *WAPOR Conference* (2023) [**Alexis de Tocqueville Award**]
+     - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
 
 
 # Publications
