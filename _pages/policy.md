@@ -5,7 +5,7 @@ permalink: /policy/
 author_profile: true
 ---
 
-## Policy Briefs
+## Policy Briefs (All with media coverage)
 1. (2022) [“Immigrants’ support networks when they arrive in Chile”](/files/paper1.pdf) (in Spanish) with Ricardo González and Esteban Muñoz, *Documento 6*. Laboratorio de Encuestas y Análisis Social UAI
    
 2. (2022) [“Studying the characteristics of digital platform workers”](/files/paper1.pdf) (in Spanish) with Ricardo González, *Documento 5*. Laboratorio de Encuestas y Análisis Social UAI.
