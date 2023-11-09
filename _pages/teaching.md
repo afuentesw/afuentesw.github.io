@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Edinburgh - Teaching Assistant (2021-)
+# University of Edinburgh - Teaching Assistant (2021-)
 
 * Research Methods in Macroeconomics (Ph.D.) x2
 
@@ -17,13 +17,13 @@ author_profile: true
 
 * Economics 1 (B.Sc.)
 
-## Universidad de las Américas - Instructor (2017)
+# Universidad de las Américas - Instructor (2017)
 
 * Microeconomics 2 (B.Sc.)
 
 * Intro. to Economics (B.Sc.) x2
 
-## Universidad de Chile - Teaching Assistant (2011-2014)
+# Universidad de Chile - Teaching Assistant (2011-2014)
 
 * Imperfect markerts (MPP)
 
