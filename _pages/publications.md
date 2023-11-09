@@ -18,7 +18,7 @@ author_profile: true
      - *Scottish Graduate Programme in Economics Conference (2022)*
      - *Macro Reading Group and Ph.D. Seminar* (University of Edinburgh)
 
-4. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
+3. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
  
    * Presented at:
      - *Chilean Public Policy Society Conference* (scheduled) (2023)
