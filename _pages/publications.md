@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -33,10 +33,18 @@ author_profile: true
 
 # Publications
 
+## Peer-Reviewed articles
+
 1. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
 
 2. (2020) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
 
-3. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “The immigrants in the labor market”</a> (in Spanish) with Rodrigo Vergara, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 65-99. Santiago de Chile: Fondo de Cultura Económica
+3. (2019) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
 
-4. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “Statistical characterization of immigration in Chile” </a> (in Spanish) with Andrés Hernando, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 379-407. Santiago de Chile: Fondo de Cultura Económica.
+4. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
+
+## Book Chapters
+
+1. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “The immigrants in the labor market”</a> (in Spanish) with Rodrigo Vergara, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 65-99. Santiago de Chile: Fondo de Cultura Económica
+
+2. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “Statistical characterization of immigration in Chile” </a> (in Spanish) with Andrés Hernando, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 379-407. Santiago de Chile: Fondo de Cultura Económica.
