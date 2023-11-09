@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##University of Edinburgh - Teaching Assistant (2021-)
+## University of Edinburgh - Teaching Assistant (2021-)
 
 * Research Methods in Macroeconomics (Ph.D.) x2
 
@@ -20,7 +20,7 @@ author_profile: true
 
 <br/>
 
-##Universidad de las Américas - Instructor (2017)
+## Universidad de las Américas - Instructor (2017)
 
 * Microeconomics 2 (B.Sc.)
 
@@ -28,7 +28,7 @@ author_profile: true
 
 <br/>
 
-##Universidad de Chile - Teaching Assistant (2011-2014)
+## Universidad de Chile - Teaching Assistant (2011-2014)
 
 * Imperfect markerts (MPP)
 
