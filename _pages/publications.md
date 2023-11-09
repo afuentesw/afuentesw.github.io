@@ -14,7 +14,7 @@ author_profile: true
    * Presented at:
      - *Universidad de Chile (scheduled)*
      - *Chilean Public Policy Society Conference* (scheduled) (2023)
-     - *PhD Royal Economic Society Conference* (2023)
+     - *Royal Economic Society Conference for PhD Students* (2023)
      - *Scottish Graduate Programme in Economics Conference (2022)*
      - *Macro Reading Group and Ph.D. Seminar* (University of Edinburgh)
 
