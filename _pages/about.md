@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Hello there!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Hello there!
 
 I am a Ph.D. Candidate at the <a href="https://www.ed.ac.uk/economics"> University of Edinburgh</a>. My supervisors are <a href="https://sites.google.com/site/axelgottfries/"> Axel Gottfries</a> and <a href="https://sites.google.com/site/rlopesdemelo/"> Rafael Lopes de Melo</a>. I am also a Research Associate at the <a href="https://leas.uai.cl/">Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
 
