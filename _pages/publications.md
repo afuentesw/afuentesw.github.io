@@ -11,11 +11,17 @@ author_profile: true
 
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
    
-   * Presented at: *Universidad de Chile (scheduled)*, *PhD RES Conference* (2023), *SGPE Conference (2022)*, *Macro Reading Group and Ph.D. Seminar* (University of Edinburgh)
+   * Presented at:
+     - *Universidad de Chile (scheduled)*
+     - *Chilean Public Policy Society Conference* (scheduled) (2023)
+     - *PhD Royal Economic Society Conference* (2023)
+     - *Scottish Graduate Programme in Economics Conference (2022)*
+     - *Macro Reading Group and Ph.D. Seminar* (University of Edinburgh)
 
 4. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
  
    * Presented at:
+     - *Chilean Public Policy Society Conference* (scheduled) (2023)
      - *Ph.D. Seminar* (University of Edinburgh)
 
    * Abstract: This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we introduce a novel model estimated through administrative
