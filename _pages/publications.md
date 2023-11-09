@@ -12,8 +12,8 @@ author_profile: true
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
    
    * Presented at:
-     - *Workshop on Policy Evaluation* - Universidad de Chile (scheduled)
-     - *Conference* - Chilean Public Policy Society (scheduled) (2023)
+     - *Workshop on Policy Evaluation* - Universidad de Chile (2023) (scheduled)
+     - *Conference* - Chilean Public Policy Society (2023) (scheduled)
      - *Conference for PhD Students* - Royal Economic Society (2023)
      - *Conference* - Scottish Graduate Programme in Economics (2022)
      - *Macro Reading Group and Ph.D. Seminar* - University of Edinburgh
@@ -21,7 +21,7 @@ author_profile: true
 3. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
  
    * Presented at:
-     - *Conference* - Chilean Public Policy Society (scheduled) (2023)
+     - *Conference* - Chilean Public Policy Society (2023) (scheduled)
      - *Ph.D. Seminar* - University of Edinburgh
 
 # Working papers - Social Capital
