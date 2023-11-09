@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Working papers - Labor and Macroeconomics
+## Working papers - Labor and Macroeconomics
 
 1. ["Optimal labor informality"](/files/paper1.pdf)
 
@@ -24,7 +24,7 @@ author_profile: true
      - *Conference* - Chilean Public Policy Society (2023) (scheduled)
      - *Ph.D. Seminar* - University of Edinburgh
 
-# Working papers - Social Capital
+## Working papers - Social Capital
 
 1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/paper1.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
@@ -32,8 +32,8 @@ author_profile: true
      - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
 
 
-# Publications
-## Peer-Reviewed articles
+## Publications
+### Peer-Reviewed articles
 
 1. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
 
@@ -43,7 +43,7 @@ author_profile: true
 
 4. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
 
-## Book Chapters
+### Book Chapters
 
 1. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “The immigrants in the labor market”</a> (in Spanish) with Rodrigo Vergara, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 65-99. Santiago de Chile: Fondo de Cultura Económica
 
