@@ -31,8 +31,8 @@ author_profile: true
    * Presented at:
      - *WAPOR Conference* (2023) [**Alexis de Tocqueville Award**]
 
-# Publications
 
+# Publications
 ## Peer-Reviewed articles
 
 1. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
