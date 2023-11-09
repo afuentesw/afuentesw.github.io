@@ -38,6 +38,6 @@ Cordero, *Puntos de Referencia 542*. Centro de Estudios Públicos.
 
 15. (2019) [“Two policies, one way: On the relationship between flexibility and job satisfaction when the working day is long”](/files/paper1.pdf) (in Spanish) with Ricardo González, *Puntos de Referencia 504*. Centro de Estudios Públicos.
 
-16. (2018) [“Gender wage gap: Changes in the period 1990-2017”](/files/paper1.pdf) (in Spanish) with Rodrigo Vergara, Puntos de Referencia 490, Centro de Estudios Públicos.
+16. (2018) [“Gender wage gap: Changes in the period 1990-2017”](/files/paper1.pdf) (in Spanish) with Rodrigo Vergara, *Puntos de Referencia 490*, Centro de Estudios Públicos.
 
-17. (2018) [“Maternity and inequality: Is there no better contraceptive than a bright future?”](/files/paper1.pdf) (in Spanish) with Isabel Aninat and Loreto Cox, Puntos de Referencia 489, Centro de Estudios Públicos.
+17. (2018) [“Maternity and inequality: Is there no better contraceptive than a bright future?”](/files/paper1.pdf) (in Spanish) with Isabel Aninat and Loreto Cox, *Puntos de Referencia 489*, Centro de Estudios Públicos.
