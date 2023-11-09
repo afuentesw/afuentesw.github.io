@@ -12,7 +12,7 @@ author_profile: true
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
    
    * Presented at:
-     - *Universidad de Chile (scheduled)*
+     - *Workshop on Policy Evaluation - Universidad de Chile (scheduled)*
      - *Chilean Public Policy Society Conference* (scheduled) (2023)
      - *Royal Economic Society Conference for PhD Students* (2023)
      - *Scottish Graduate Programme in Economics Conference (2022)*
