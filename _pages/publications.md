@@ -24,9 +24,6 @@ author_profile: true
      - *Chilean Public Policy Society Conference* (scheduled) (2023)
      - *Ph.D. Seminar* (University of Edinburgh)
 
-   * Abstract: This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we introduce a novel model estimated through administrative
-data, and we found close-to-perfect substitutability between workers with higher vocational and college education. Lastly, examining study plans at the technical, professional, and college levels reveals a relevant overlap, rationalizing the substitution between different educational levels. Finally, we emphasize the need for policymakers to differentiate programs at each educational level since this would lead to a more effective integration of workers with tertiary education in the labor market.
-
 # Working papers - Social Capital
 
 1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/paper1.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
