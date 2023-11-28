@@ -8,12 +8,14 @@ author_profile: true
 ## Working papers - Labor and Macroeconomics
 
 1. ["Optimal labor informality"](/files/paper1.pdf)
-
+   * Presented at:
+     - *Macro Reading Group* - University of Edinburgh 
+     
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
    
    * Presented at:
-     - *Workshop on Policy Evaluation* - MIPP & Universidad de Chile (2023) (scheduled)
-     - *Workshop on Gender and Labor Market Mismatch* - LM2C2 & P. Universidad Católica de Chile (2023) (scheduled)
+     - *Workshop on Policy Evaluation* - MIPP & U. Chile (2023) (scheduled)
+     - *Workshop on Gender and Labor Market Mismatch* - LM2C2 & PUC Chile (2023) (scheduled)
      - *Conference* - Chilean Public Policy Society (2023) (scheduled)
      - *Conference for PhD Students* - Royal Economic Society (2023)
      - *Conference* - Scottish Graduate Programme in Economics (2022)
