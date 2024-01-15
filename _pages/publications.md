@@ -24,6 +24,8 @@ author_profile: true
 3. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
  
    * Presented at:
+     - *Conference* - Scottish Economic Scociety (2024) (Scheduled)
+     - *Conference* - Rurh Graduate School of Economics (2024) (Scheduled)
      - *Conference* - Chilean Public Policy Society (2023)
      - *Ph.D. Seminar* - University of Edinburgh
 
