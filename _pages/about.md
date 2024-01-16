@@ -11,6 +11,6 @@ redirect_from:
 
 I am a Ph.D. Candidate at the <a href="https://www.ed.ac.uk/economics"> University of Edinburgh</a>. My supervisors are <a href="https://sites.google.com/site/axelgottfries/"> Axel Gottfries</a> and <a href="https://sites.google.com/site/rlopesdemelo/"> Rafael Lopes de Melo</a>. I am also a Research Associate at the <a href="https://leas.uai.cl/">Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
 
-My main research interests lie in the intersection between Labor Economics and Macroeconomics, and I am especially interested in labor informality in developing economies. Also, I have a secondary interest in the effects of Social Capital on different outcomes such as health, labor income, and voting behavior. Finally, I am also interested in Data Science and Machine Learning applications.
+My main research interests lie in the intersection between Labor Economics and Macroeconomics. I have a secondary interest in Social Capital, and in Data Science and Machine Learning applications.
 
 Before starting my studies at the University of Edinburgh, I completed a M.Res. in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and I was Research Assistant for two years at <a href="https://www.cepchile.cl/"> Centro de Estudios Públicos</a>.
