@@ -11,7 +11,7 @@ author_profile: true
    * Presented at:
      - *Macro Reading Group* - University of Edinburgh 
      
-2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/paper1.pdf)
+2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality in Chile.pdf)
    
    * Presented at:
      - *Workshop on Policy Evaluation* - MIPP & U. Chile (2023)
@@ -21,13 +21,15 @@ author_profile: true
      - *Conference* - Scottish Graduate Programme in Economics (2022)
      - *Macro Reading Group and Ph.D. Seminar* - University of Edinburgh
 
-3. ["Effects of expansion of tertiary education in Chile: Wage premiums and elasticities of substitution"](/files/paper1.pdf) with Roberto Cases
+3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity of Substitution.pdf) with Roberto Cases
  
    * Presented at:
-     - *Conference* - Scottish Economic Scociety (2024) (Scheduled)
-     - *Conference* - Rurh Graduate School of Economics (2024) (Scheduled)
+     - *Conference* - Scottish Economic Society (2024) (Scheduled)
+     - *Conference* - Rurh Graduate School of Economics Doctoral Conference (2024)
      - *Conference* - Chilean Public Policy Society (2023)
      - *Ph.D. Seminar* - University of Edinburgh
+    
+4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Elasticity of Substitution.pdf) with Ricardo González
 
 ## Working papers - Social Capital
 
@@ -35,7 +37,13 @@ author_profile: true
 
    * Presented at:
      - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
+    
+2. ["Nonresponse in Name Generators Across Countries and Survey Modes"](/files/paper1.pdf) with Ricardo González and Esteban Muñoz.
 
+   * R&R Social Networks
+
+   * Presented at:
+     - *Conference* - 9th International Workshop on Social Network Analysis
 
 ## Publications
 ### Peer-Reviewed articles
