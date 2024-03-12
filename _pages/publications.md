@@ -24,6 +24,7 @@ author_profile: true
 3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity of Substitution.pdf) with Roberto Cases
  
    * Presented at:
+     - *Conference* - Swiss Society of Economics and Statistics (2024) (Scheduled)
      - *Conference* - Scottish Economic Society (2024) (Scheduled)
      - *Conference* - Rurh Graduate School of Economics Doctoral Conference (2024)
      - *Conference* - Chilean Public Policy Society (2023)
