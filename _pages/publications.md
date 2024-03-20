@@ -25,6 +25,7 @@ author_profile: true
  
    * Presented at:
      - *Conference* - Swiss Society of Economics and Statistics (2024) (Scheduled)
+     - *Conference* - Rimini Centre for Economic Analysis Conference (2024) (Scheduled)
      - *Conference* - Scottish Economic Society (2024) (Scheduled)
      - *Conference* - Rurh Graduate School of Economics Doctoral Conference (2024)
      - *Conference* - Chilean Public Policy Society (2023)
