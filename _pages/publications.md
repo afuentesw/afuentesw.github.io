@@ -9,6 +9,7 @@ author_profile: true
 
 1. "Optimal labor informality"
    * Presented at:
+     - *Conference* - European Association of Labour Economists (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh 
      
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality in Chile.pdf)
