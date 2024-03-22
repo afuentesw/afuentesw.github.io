@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers - Labor and Macroeconomics
 
-1. "Optimal labor informality"
+1. "Job loss consequences in the presence of labor informality"
    * Presented at:
      - *Conference* - European Association of Labour Economists (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh 
