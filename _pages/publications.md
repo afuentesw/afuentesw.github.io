@@ -9,7 +9,7 @@ author_profile: true
 
 1. "Job loss consequences in the presence of labor informality"
    * Presented at:
-     - *Conference* - European Association of Labour Economists (2024) (Scheduled)
+     - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh 
      
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality in Chile.pdf)
@@ -25,8 +25,9 @@ author_profile: true
 3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity of Substitution.pdf) with Roberto Cases
  
    * Presented at:
-     - *Conference* - Swiss Society of Economics and Statistics (2024) (Scheduled)
-     - *Conference* - Rimini Centre for Economic Analysis Conference (2024) (Scheduled)
+     - *Conference* - Spanish Association of Labor Economists (2024) (Scheduled)
+     - *Conference* - Swiss Society of Economics and Statistics (2024)
+     - *Conference* - Rimini Centre for Economic Analysis Conference (2024)
      - *Conference* - Scottish Economic Society (2024)
      - *Conference* - Rurh Graduate School of Economics Doctoral Conference (2024)
      - *Conference* - Chilean Public Policy Society (2023)
@@ -34,30 +35,27 @@ author_profile: true
     
 4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Elasticity of Substitution.pdf) with Ricardo González
 
+   * Submitted.
+
 ## Working papers - Social Capital
 
 1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/paper1.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
    * Presented at:
      - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
-    
-2. ["Nonresponse in Name Generators Across Countries and Survey Modes"](/files/paper1.pdf) with Ricardo González and Esteban Muñoz.
-
-   * R&R Social Networks
-
-   * Presented at:
-     - *Conference* - 9th International Workshop on Social Network Analysis
 
 ## Publications
 ### Peer-Reviewed articles
 
-1. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
+1. (2024) <a href="https://doi.org/10.1016/j.socnet.2024.06.002"> “Nonresponse in name generators across countries and survey modes”</a> with Ricardo Gonzalez and Esteban Muñoz. *Social Networks* 79: 93-103.
 
-2. (2020) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
+2. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
 
-3. (2019) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
+3. (2020) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
 
-4. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
+4. (2019) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
+
+5. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
 
 ### Book Chapters
 
