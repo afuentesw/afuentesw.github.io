@@ -10,7 +10,7 @@ author_profile: true
 1. "Job loss consequences in the presence of labor informality"
    * Presented at:
      - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
-     - *Macro Reading Group* - University of Edinburgh 
+     - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
      
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality in Chile.pdf)
    
@@ -25,7 +25,7 @@ author_profile: true
 3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity of Substitution.pdf) with Roberto Cases
  
    * Presented at:
-     - *Conference* - Spanish Association of Labor Economists (2024) (Scheduled)
+     - *Conference* - Spanish Association of Labor Economists (2024)
      - *Conference* - Swiss Society of Economics and Statistics (2024)
      - *Conference* - Rimini Centre for Economic Analysis Conference (2024)
      - *Conference* - Scottish Economic Society (2024)
@@ -34,6 +34,10 @@ author_profile: true
      - *Ph.D. Seminar* - University of Edinburgh
     
 4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Elasticity of Substitution.pdf) with Ricardo González
+
+   * R&R Socio-Economic Review.
+  
+5. ["Transitions into and out of the gig economy"](/files/Elasticity of Substitution.pdf) with Ricardo González
 
    * Submitted.
 
