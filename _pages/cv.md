@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [Here](/files/CV_Adolfo_Fuentes.pdf)
+You can find my CV [[Here](/files/CV_Adolfo_Fuentes.pdf)]
