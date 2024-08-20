@@ -39,11 +39,9 @@ author_profile: true
   
 5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
 
-   * Submitted.
-
 ## Working papers - Social Capital
 
-1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/Populism.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
+1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
    * Presented at:
      - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
