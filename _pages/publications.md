@@ -33,17 +33,17 @@ author_profile: true
      - *Conference* - Chilean Public Policy Society (2023)
      - *Ph.D. Seminar* - University of Edinburgh
     
-4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Elasticity of Substitution.pdf) with Ricardo González
+4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
 
    * R&R Socio-Economic Review.
   
-5. ["Transitions into and out of the gig economy"](/files/Elasticity of Substitution.pdf) with Ricardo González
+5. ["Transitions into and out of the gig economy"](/files/Transitions.pdf) with Ricardo González
 
    * Submitted.
 
 ## Working papers - Social Capital
 
-1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/paper1.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
+1. ["Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences"](/files/Populism.pdf) with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
    * Presented at:
      - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
