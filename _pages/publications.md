@@ -7,12 +7,12 @@ author_profile: true
 
 ## Working papers - Labor and Macroeconomics
 
-1. "Job loss consequences in the presence of labor informality"
+1. ["Job loss consequences in the presence of labor informality"](/files/Job_ladder.pdf) (Job Market Paper)
    * Presented at:
      - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
      
-2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality in Chile.pdf)
+2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Education_and_informality.pdf)
    
    * Presented at:
      - *Workshop on Policy Evaluation* - MIPP & U. Chile (2023)
@@ -22,7 +22,7 @@ author_profile: true
      - *Conference* - Scottish Graduate Programme in Economics (2022)
      - *Macro Reading Group and Ph.D. Seminar* - University of Edinburgh (2021 & 2022)
 
-3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity of Substitution.pdf) with Roberto Cases
+3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
  
    * Presented at:
      - *Conference* - Spanish Association of Labor Economists (2024)
