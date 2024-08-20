@@ -12,7 +12,7 @@ author_profile: true
      - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
      
-2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Education_and_informality.pdf)
+2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
    
    * Presented at:
      - *Workshop on Policy Evaluation* - MIPP & U. Chile (2023)
