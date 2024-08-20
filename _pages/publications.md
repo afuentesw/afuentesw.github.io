@@ -37,7 +37,7 @@ author_profile: true
 
    * R&R Socio-Economic Review.
   
-5. ["Transitions into and out of the gig economy"](/files/Transitions.pdf) with Ricardo González
+5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
 
    * Submitted.
 
