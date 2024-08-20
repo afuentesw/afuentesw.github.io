@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers - Labor and Macroeconomics
 
-1. ["The value of a formal job and the loss consequences of job loss in the presence of informality"](/files/Job_ladder.pdf) (Job Market Paper)
+1. ["The value of a formal job and the loss consequences of job loss in the presence of informality"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
    * Presented at:
      - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
      - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
