@@ -9,7 +9,7 @@ author_profile: true
 
 1. ["The value of a formal job and the loss consequences of job loss in the presence of informality"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
    * Presented at:
-     - *Conference* - European Association of Labour Economists - Job Market Session (2024) (Scheduled)
+     - *Conference* - European Association of Labour Economists - Job Market Session (2024)
      - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
      
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
@@ -38,6 +38,8 @@ author_profile: true
    * R&R Socio-Economic Review.
   
 5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
+
+   * Submitted.
 
 ## Working papers - Social Capital
 
