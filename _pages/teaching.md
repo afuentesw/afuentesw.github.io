@@ -9,9 +9,10 @@ author_profile: true
 
 * MATLAB and R Workshop (Ph.D. & M.Sc.) x2
 
-## Tools for Macroeconomists - Summer School 
+## Tools for Macroeconomists Summer School - Teaching Assistant (2024)
 
-* Taught Pontus Rendall and Petr Sedlacek. Advanced Tools (Ph.D)
+* Summer School designed and taught Pontus Rendall and Petr Sedlacek.
+* Advanced Tools (Ph.D)
 
 ## University of Edinburgh - Teaching Assistant (2021-)
 
