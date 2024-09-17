@@ -9,7 +9,7 @@ author_profile: true
 
 * MATLAB and R Workshop (Ph.D. & M.Sc.) x2
 
-## <a href="https://sites.google.com/view/toolsformacro/home"> Tools for Macroeconomics Summer School </a>  - Teaching Assistant (2024)
+## <a href="https://sites.google.com/view/toolsformacro/home"> Tools for Macroeconomics </a>  - Teaching Assistant (2024)
 
 * Summer School taught Pontus Rendall and Petr Sedlacek.
 * Advanced Tools (Ph.D)
