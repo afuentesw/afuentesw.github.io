@@ -15,4 +15,4 @@ My main research interest lies in the intersection between Macroeconomics and La
 
 Before starting my studies at the University of Edinburgh, I completed a M.Res. in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and I was Research Assistant for two years at <a href="https://www.cepchile.cl/"> Centro de Estudios Públicos</a>.
 
-<b> I will be on the 2024-25 Job Market. <b>
+<b> I will be on the Job Market in 2024/2025. <b>
