@@ -11,7 +11,7 @@ author_profile: true
 
 ## University of Edinburgh - Teaching Assistant (2021-)
 
-* Research Methods in Macroeconomics (Ph.D.) x2, Numerical Methods Bootcamp (Ph.D. & M.Sc.) x3, Macroeconomics 2 (M.Sc.) x2, Topics in Macroeconomics (B.Sc.) x3,  Economics 1 (B.Sc.)
+* Research Methods in Macroeconomics (Ph.D.) x3, Numerical Methods Bootcamp (Ph.D. & M.Sc.) x3, Macroeconomics 2 (M.Sc.) x3, Topics in Macroeconomics (B.Sc.) x3,  Economics 1 (B.Sc.)
 
 ## Universidad de las Américas - Instructor (2017)
 
