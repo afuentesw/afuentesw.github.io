@@ -9,6 +9,10 @@ author_profile: true
 
 * MATLAB and R Workshop (Ph.D. & M.Sc.) x2
 
+## Tools for Macroeconomists - By Pontus Rendall and Petr Sedlacek
+
+* Advance Tools (Ph.D)
+
 ## University of Edinburgh - Teaching Assistant (2021-)
 
 * Research Methods in Macroeconomics (Ph.D.) x3, Numerical Methods Bootcamp (Ph.D. & M.Sc.) x3, Macroeconomics 2 (M.Sc.) x3, Topics in Macroeconomics (B.Sc.) x3,  Economics 1 (B.Sc.)
