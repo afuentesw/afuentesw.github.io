@@ -11,7 +11,7 @@ author_profile: true
 
 ## <a href="https://sites.google.com/view/toolsformacro/home"> Tools for Macroeconomics Summer School </a>  - Teaching Assistant (2024)
 
-* Summer School designed and taught Pontus Rendall and Petr Sedlacek.
+* Summer School taught Pontus Rendall and Petr Sedlacek.
 * Advanced Tools (Ph.D)
 
 ## University of Edinburgh - Teaching Assistant (2021-)
