@@ -41,7 +41,7 @@ author_profile: true
 
    * Submitted.
 
-## Working papers - Social Capital
+## Working papers - Social Networks
 
 1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
 
