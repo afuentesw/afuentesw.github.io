@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers - Macroeconomics and Labor Economics
 
-1. [The value of a formal job](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
+1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
     <details>
       <summary> Abstract: </summary>
       <ul>
