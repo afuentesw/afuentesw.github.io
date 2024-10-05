@@ -9,7 +9,7 @@ author_profile: true
 
 1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
 <details style="display: inline;">
-  <summary style="display: inline; cursor: pointer;"> Presented at :</summary>
+  <summary style="display: inline; cursor: pointer;">Presented at:</summary>
   <ul>
     <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024) (Scheduled)</li>
     <li><em>Conference</em> - European Association of Labour Economists: Job Market Session (2024)</li>
