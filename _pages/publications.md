@@ -17,9 +17,9 @@ author_profile: true
     <details>
       <summary> Presented at: </summary>
       <ul>
-        <li><em>Workshop on Gender and Labor Market Mismatch</em></li> - LM2C2 & PUC Chile (2024) (Scheduled)
-        <li><em>Conference</em></li> - European Association of Labour Economists: Job Market Session (2024)
-        <li><em>Macro Reading Group</em></li> - University of Edinburgh (2023 & 2024)
+        <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024) (Scheduled)</li>
+        <li><em>Conference</em>- European Association of Labour Economists: Job Market Session (2024)</li>
+        <li><em>Macro Reading Group</em> - University of Edinburgh (2023 & 2024)</li>
       </ul>
     </details>
     
