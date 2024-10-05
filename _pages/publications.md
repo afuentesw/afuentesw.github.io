@@ -24,16 +24,26 @@ author_profile: true
     </details>
     
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
-   
-   * Presented at:
-     - *Workshop on Policy Evaluation* - MIPP & U. Chile (2023)
-     - *Workshop on Gender and Labor Market Mismatch* - LM2C2 & PUC Chile (2023)
-     - *Conference* - Chilean Public Policy Society (2023)
-     - *Conference for PhD Students* - Royal Economic Society (2023)
-     - *Conference* - Scottish Graduate Programme in Economics (2022)
-     - *Macro Reading Group and Ph.D. Seminar* - University of Edinburgh (2021 & 2022)
 
-3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
+    <details>
+      <summary> Abstract </summary>
+      <ul>
+        <li>Starting a labor career in a formal or informal job significantly impacts labor market outcomes due to differences in productivity, human capital accumulation, job destruction rates, and the presence of a minimum wage. To quantify this, I propose a frictional labor market model with two sectors and firm heterogeneity in productivity and destruction rates, where workers search off- and on-the-job and accumulate human capital, generating a three-dimensional job ladder. I calibrate the model using survey and administrative Chilean data. The model shows that, on average, the value of a formal job is equivalent to a lump sum payment of 13.5 minimum wages, with this value decreasing as human capital rises. Also, starting with a formal job leads to at least 6.5% higher total earnings after five years. Finally, productivity and offer arrival rates drive the difference between sectors, with job safety and human capital accumulation playing secondary roles.</li>
+      </ul>
+    </details>
+    <details>
+      <summary> Presented at </summary>
+      <ul>
+        <li><em>Workshop on Policy Evaluation*</em> - MIPP & U. Chile (2023)</li>
+        <li><em>Workshop on Gender and Labor Market Mismatch</em>- LM2C2 & PUC Chile (2024)</li>
+        <li><em>Conference</em> - Chilean Public Policy Society (2023)</li>
+        <li> <em> Conference for PhD Students</em> - Royal Economic Society (2023) </li>
+          <li> <em> Conference </em> - Scottish Graduate Programme in Economics (2022) </li>
+          <li> <em> Macro Reading Group and Ph.D. Seminar </em> - University of Edinburgh (2021 & 2022) </li>
+      </ul>
+    </details>
+
+4. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
  
    * Presented at:
      - *Conference* - Spanish Association of Labor Economists (2024)
@@ -44,11 +54,11 @@ author_profile: true
      - *Conference* - Chilean Public Policy Society (2023)
      - *Ph.D. Seminar* - University of Edinburgh
     
-4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
+5. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
 
    * R&R Socio-Economic Review.
   
-5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
+6. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
 
    * Submitted.
 
