@@ -28,7 +28,7 @@ author_profile: true
     <details>
       <summary> Abstract </summary>
       <ul>
-        <li> This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we propose a novel model estimated through administrative data, and we found close-to-perfect substitutability between workers with higher vocational and college education. Finally, we emphasize the need to differentiate programs at each educational level to generate a more effective integration in the labor markets.</li>
+        <li> This paper studies the evolution of labor informality in Chile with a twofold contribution. First, I propose a measurement of informality between 1990 and 2020 that is consistent with administrative records and surprisingly stable. This is counter-intuitive since Chile experienced an increase in tertiary education in that period, often linked to a reduction of informality. Second, I adapt a search and matching model that explains the decrease in labor informality in Brazil to the Chilean case, and I estimate it using data from 2006-2017. The model is focused on the general equilibrium effects that affect informality when the skill composition of the workforce changes. I find that increases in the real minimum wages and decreasing TFP offset the impact of tertiary education, contributing to stable informality levels. This highlights differences between the Brazilian and Chilean economies, revealing potential diminishing returns to the effect of education on informality.</li>
       </ul>
     </details>
     <details>
@@ -44,7 +44,12 @@ author_profile: true
     </details>
 
 4. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
- 
+    <details>
+      <summary> Abstract </summary>
+      <ul>
+        <li> This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we propose a novel model estimated through administrative data, and we found close-to-perfect substitutability between workers with higher vocational and college education. Finally, we emphasize the need to differentiate programs at each educational level to generate a more effective integration in the labor markets.</li>
+      </ul>
+    </details> 
    * Presented at:
      - *Conference* - Spanish Association of Labor Economists (2024)
      - *Conference* - Swiss Society of Economics and Statistics (2024)
