@@ -15,7 +15,7 @@ author_profile: true
       - *Workshop on Gender and Labor Market Mismatch* - LM2C2 & PUC Chile (2024) (Scheduled)
       - *Conference* - European Association of Labour Economists: Job Market Session (2024)
       - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
-      <ul>
+      </ul>
     </details>
     
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
