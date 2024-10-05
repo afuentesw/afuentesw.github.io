@@ -8,12 +8,6 @@ author_profile: true
 ## Working papers - Macroeconomics and Labor Economics
 
 1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
-   * Presented at:
-     - *Workshop on Gender and Labor Market Mismatch* - LM2C2 & PUC Chile (2024) (Scheduled)
-     - *Conference* - European Association of Labour Economists : Job Market Session (2024)
-     - *Macro Reading Group* - University of Edinburgh (2023 & 2024)
-    
-2. ## [The value of a formal job](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
 <details>
   <summary>Presented at:</summary>
   <ul>
