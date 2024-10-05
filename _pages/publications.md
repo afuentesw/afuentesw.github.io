@@ -11,7 +11,7 @@ author_profile: true
     <details>
       <summary> Abstract: </summary>
       <ul>
-        <li>(Scheduled)</li>
+        <li>Starting a labor career in a formal or informal job significantly impacts labor market outcomes due to differences in productivity, human capital accumulation, job destruction rates, and the presence of a minimum wage. To quantify this, I propose a frictional labor market model with two sectors and firm heterogeneity in productivity and destruction rates, where workers search off- and on-the-job and accumulate human capital, generating a three-dimensional job ladder. I calibrate the model using survey and administrative Chilean data. The model shows that, on average, the value of a formal job is equivalent to a lump sum payment of 13.5 minimum wages, with this value decreasing as human capital rises. Also, starting with a formal job leads to at least 6.5\% higher total earnings after five years. Finally, productivity and offer arrival rates drive the difference between sectors, with job safety and human capital accumulation playing secondary roles.</li>
       </ul>
     </details>
     <details>
