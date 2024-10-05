@@ -11,7 +11,7 @@ author_profile: true
     <details>
       <summary> Abstract: </summary>
       <ul>
-        <li><em>(Scheduled)</li>
+        <li>(Scheduled)</li>
       </ul>
     </details>
     <details>
