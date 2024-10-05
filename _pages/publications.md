@@ -9,14 +9,11 @@ author_profile: true
 
 1. [The value of a formal job](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
 
-<details style="margin-left: 20px;">
-*Tabspace*  <summary style="display: inline; cursor: pointer;">Presented at:</summary>
-  <ul>
-    <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024) (Scheduled)</li>
-    <li><em>Conference</em> - European Association of Labour Economists: Job Market Session (2024)</li>
-    <li><em>Macro Reading Group</em> - University of Edinburgh (2023 & 2024)</li>
-  </ul>
-</details>
+  * Presented at:
+    - Workshop on Gender and Labor Market Mismatch - LM2C2 & PUC Chile (2024) (Scheduled)
+    - Conference - European Association of Labour Economists: Job Market Session (2024)
+    - Macro Reading Group - University of Edinburgh (2023 & 2024)
+
      
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
    
