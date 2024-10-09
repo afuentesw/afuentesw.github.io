@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers - Macroeconomics and Labor Economics
 
-1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (Job Market Paper)
+1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (**Job Market Paper**)
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -62,7 +62,7 @@ author_profile: true
       </ul>
     </details>
     
-4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González (R&R Socio-Economic Review)
+4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González (**R&R Socio-Economic Review**)
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -81,10 +81,14 @@ employment. Individuals in part-time roles or working for smaller companies are 
 
 ## Working papers - Social Networks
 
-1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz.
+1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz [**Alexis de Tocqueville Award**]
+    <details>
+      <summary> Presented at </summary>
+      <ul>
+        <li><em>Conference</em> - World Association for Public Opinion Research (2023) (Scheduled)</li>
+      </ul>
+    </details>
 
-   * Presented at:
-     - *Conference* - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**]
 
 ## Publications
 ### Peer-Reviewed articles
