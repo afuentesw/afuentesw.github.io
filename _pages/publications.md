@@ -50,14 +50,18 @@ author_profile: true
         <li> This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we propose a novel model estimated through administrative data, and we found close-to-perfect substitutability between workers with higher vocational and college education. Finally, we emphasize the need to differentiate programs at each educational level to generate a more effective integration in the labor markets.</li>
       </ul>
     </details> 
-   * Presented at:
-     - *Conference* - Spanish Association of Labor Economists (2024)
-     - *Conference* - Swiss Society of Economics and Statistics (2024)
-     - *Conference* - Rimini Centre for Economic Analysis Conference (2024)
-     - *Conference* - Scottish Economic Society (2024)
-     - *Conference* - Rurh Graduate School of Economics Doctoral Conference (2024)
-     - *Conference* - Chilean Public Policy Society (2023)
-     - *Ph.D. Seminar* - University of Edinburgh
+    <details>
+      <summary> Presented at </summary>
+      <ul>
+        <li><em>Conference*</em> - Spanish Association of Labor Economists (2024) </li>
+        <li><em>Conference</em>- Swiss Society of Economics and Statistics (2024) </li>
+        <li><em>Conference</em> - Rimini Centre for Economic Analysis Conference (2024) </li>
+        <li> <em> Conference </em> - Scottish Economic Society (2024) </li>
+        <li> <em> Conference </em> - Rurh Graduate School of Economics Doctoral Conference (2024) </li>
+        <li> <em> Conference </em> - Chilean Public Policy Society (2023) </li>
+        <li> <em> Ph.D. Seminar </em> - University of Edinburgh (2023) </li>
+      </ul>
+    </details>
     
 5. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
 
