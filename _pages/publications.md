@@ -85,7 +85,7 @@ employment. Individuals in part-time roles or working for smaller companies are 
     <details>
       <summary> Presented at </summary>
       <ul>
-        <li><em>Conference</em> - World Association for Public Opinion Research (2023) (Scheduled)</li>
+        <li><em>Conference</em> - World Association for Public Opinion Research (2023)</li>
       </ul>
     </details>
 
