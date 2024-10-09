@@ -24,7 +24,6 @@ author_profile: true
     </details>
     
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
-
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -43,7 +42,7 @@ author_profile: true
       </ul>
     </details>
 
-4. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
+3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -63,13 +62,22 @@ author_profile: true
       </ul>
     </details>
     
-5. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
+4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González (R&R Socio-Economic Review)
+    <details>
+      <summary> Abstract </summary>
+      <ul>
+        <li> This article explores the wage determinants of Chile's gig economy, a prominent sector in the developing world characterized by its algorithm-driven and flexible nature. Utilizing official survey data from 2020 to 2022, we analyze the wages of 67,570 workers, including 2.1% who are engaged in gig work. This approach offers a novel perspective compared to previous studies primarily focused on single-platform analysis. Contrary to common assumptions about the gig economy, our analysis reveals that gig workers do not experience a negative wage premium compared to traditional sector workers, particularly when adjusting for formality status. Furthermore, our study finds a more subdued correlation between education and income in the gig economy than in traditional employment. We also find similar gender wage gaps between both sectors, suggesting that technological advancements have not changed gender inequalities. These findings challenge existing narratives and offer valuable information for policymakers in developing economies. </li>
+      </ul>
+    </details> 
 
-   * R&R Socio-Economic Review.
-  
-6. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González
-
-   * Submitted.
+5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González (Submitted)
+    <details>
+      <summary> Abstract </summary>
+      <ul>
+        <li> The gig economy has transformed global labor markets, yet its dynamics in emerging economies, where informal labor is prevalent, still need to be explored. Furthermore, there is limited knowledge of how gig work interacts with traditional employment sectors and unemployment. This article analyzes the transitions between gig work, traditional employment, and unemployment in Chile, an emerging economy with significant informal employment. Using longitudinal data from Chile's National Employment Survey from 2021q1 to 2024q1, we use probit models to analyze transition probabilities between these three states. We find gig jobs generally serve as transitional roles rather than long-term employment solutions, with substantial turnover and frequent shifts to traditional
+employment. Individuals in part-time roles or working for smaller companies are more likely to transition into gig employment, whereas those in more stable jobs are less inclined to shift. Additionally, those in informal jobs tend to enter and remain in the gig economy. The study also shows that individuals with higher education are more drawn to gig work, indicating a labor market segmentation that could deepen income inequalities. These insights highlight the dual role of the gig economy in providing temporary relief from unemployment and informality while presenting challenges of stability and long-term job security. Finally, we situate our findings within the existing literature and discuss the broader implications for labor regulation in Chile and similar contexts.</li>
+      </ul>
+    </details> 
 
 ## Working papers - Social Networks
 
