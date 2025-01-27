@@ -75,7 +75,7 @@ author_profile: true
       </ul>
     </details> 
 
-5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González (Submitted)
+5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González (**R&R Information, Communication and Society**)
     <details>
       <summary> Abstract </summary>
       <ul>
