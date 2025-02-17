@@ -20,7 +20,7 @@ author_profile: true
         <li><em> Conference </em> - Scottish Economic Society (Scheduled) (2025)</li>  
         <li><em> Seminar </em> - Institute for Fiscal Studies (2025)</li>  
         <li><em> Seminar </em> - U. Diego Portales (2025)</li>
-        <li><em> Conference </em> - Scottish Graduate Programme in Economics (2025)</li>
+        <li><em> Conference </em> - Scottish Graduate Programme in Economics (2025) [**PhD Student Presentation Prize**] </li>
         <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024)</li>
         <li><em>Conference</em>- European Association of Labour Economists: Job Market Session (2024)</li>
         <li><em>Macro Reading Group</em> - University of Edinburgh (2023 & 2024)</li>
@@ -85,11 +85,11 @@ author_profile: true
 
 ## Working papers - Social Networks
 
-1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz [**Alexis de Tocqueville Award**]
+1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz 
     <details>
       <summary> Presented at </summary>
       <ul>
-        <li><em>Conference</em> - World Association for Public Opinion Research (2023)</li>
+        <li><em>Conference</em> - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**] </li>
       </ul>
     </details>
 
