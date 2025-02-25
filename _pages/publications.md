@@ -20,7 +20,7 @@ author_profile: true
         <li><em> Conference </em> - Scottish Economic Society (Scheduled) (2025)</li>  
         <li><em> Seminar </em> - Institute for Fiscal Studies (2025)</li>  
         <li><em> Seminar </em> - U. Diego Portales (2025)</li>
-        <li><em> Conference </em> - Scottish Graduate Programme in Economics (2025) [**PhD Student Presentation Prize**] </li>
+        <li><em> Conference </em> - Scottish Graduate Programme in Economics (2025) [<b>PhD Student Presentation Prize</b>] </li>
         <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024)</li>
         <li><em>Conference</em>- European Association of Labour Economists: Job Market Session (2024)</li>
         <li><em>Macro Reading Group</em> - University of Edinburgh (2023 & 2024)</li>
