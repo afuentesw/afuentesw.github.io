@@ -89,7 +89,7 @@ author_profile: true
     <details>
       <summary> Presented at </summary>
       <ul>
-        <li><em>Conference</em> - World Association for Public Opinion Research (2023) [**Alexis de Tocqueville Award**] </li>
+        <li><em>Conference</em> - World Association for Public Opinion Research (2023) [<b>Alexis de Tocqueville Award</b>] </li>
       </ul>
     </details>
 
