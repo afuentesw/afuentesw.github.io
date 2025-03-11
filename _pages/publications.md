@@ -17,6 +17,7 @@ author_profile: true
     <details>
       <summary> Presented at </summary>
       <ul>
+        <li><em> Conference </em> - Royal Economic Society (Scheduled) (2025)</li> 
         <li><em> Conference </em> - Scottish Economic Society (Scheduled) (2025)</li>  
         <li><em> Seminar </em> - Institute for Fiscal Studies (2025)</li>  
         <li><em> Seminar </em> - U. Diego Portales (2025)</li>
