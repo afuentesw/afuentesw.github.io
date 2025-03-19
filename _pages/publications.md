@@ -68,7 +68,6 @@ author_profile: true
     </details>
     
 4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
-   (**R&R Socio-Economic Review**)
     <details>
       <summary> Abstract </summary>
       <ul>
