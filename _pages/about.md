@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Hello there!
 
-I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a>. and a Ph.D. Candidate at the <a href="https://www.ed.ac.uk/economics"> University of Edinburgh</a>. I am also a Research Associate at the <a href="https://leas.uai.cl/">Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
+I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a> and a Ph.D. Candidate at the <a href="https://www.ed.ac.uk/economics"> University of Edinburgh</a>. I am also a Research Associate at the <a href="https://leas.uai.cl/">Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
 
 My primary research interest lies at the intersection of Macroeconomics and Labor Economics. I am also interested in Social Networks.
 
