@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Hello there!
 
-I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a>, and a Senior Researcher at the <a href="https://economia.udp.cl/](https://ocec.udp.cl/"> Observatory of the Economic Context </a>.
+I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a>, and a Senior Researcher at the <a href="https://economia.udp.cl/](https://ocec.udp.cl/"> Observatory of the Economic Context</a>.
 
 My primary research interest lies at the intersection of Macroeconomics and Labor Economics. I am also interested in Social Networks and Survey Methodology.
 
