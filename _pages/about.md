@@ -9,11 +9,11 @@ redirect_from:
 ---
 ## Hello there!
 
-I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a> and a Ph.D. Candidate at the <a href="https://www.ed.ac.uk/economics"> University of Edinburgh</a>. I am also a Research Associate at the <a href="https://leas.uai.cl/">Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
+I am an Assistant Professor at the Department of Economics at <a href="https://economia.udp.cl/"> Universidad Diego Portales</a>, and a Senior Researcher at the <a href="https://economia.udp.cl/](https://ocec.udp.cl/"> Observatory of the Economic Context </a>.
 
-My primary research interest lies at the intersection of Macroeconomics and Labor Economics. I am also interested in Social Networks.
+My primary research interest lies at the intersection of Macroeconomics and Labor Economics. I am also interested in Social Networks and Survey Methodology.
 
-Before starting my studies at the University of Edinburgh, I completed an M.Res. in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and I was a Research Assistant for two years at <a href="https://www.cepchile.cl/"> Centro de Estudios Públicos</a>.
+Before joining Universidad Diego Portales, I completed a Ph.D. in Economics at the <a href="https://www.ucl.ac.uk/economics/ucl-department-economics](https://economics.ed.ac.uk/"> University of Edinburgh</a>, and I was a Research Associate at <a href="https://leas.uai.cl/"> Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
 
 <hr>
 
@@ -21,7 +21,7 @@ Before starting my studies at the University of Edinburgh, I completed an M.Res.
 
 <script>
   const quotes = [
-    "“Economics is the Queen of social sciences, the oldest of the arts, and the newest of the sciences” – Paul Samuelson",
+    "“Economics is the queen of social sciences, the oldest of the arts, and the newest of the sciences” – Paul Samuelson",
     "“I set out to become the greatest lover in Vienna, the greatest horseman in Austria, and the greatest economist in the world. Alas, for the illusions of youth: as a horseman, I was never really first-rate” – Joseph Schumpeter",
     "“If God had meant there to be more than two factors of production, He would have made it easier for us to draw three-dimensional diagrams” – Robert Solow",
     "“But nobody can be a great economist who is only an economist—and I am even tempted to add that the economist who is only an economist is likely to become a nuisance if not a positive danger” – Friedrich Hayek",
