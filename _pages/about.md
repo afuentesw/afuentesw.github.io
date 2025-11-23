@@ -13,7 +13,7 @@ I am an Assistant Professor at the Department of Economics at <a href="https://e
 
 My primary research interest lies at the intersection of Macroeconomics and Labor Economics. I am also interested in Social Networks and Survey Methodology.
 
-Before joining Universidad Diego Portales, I completed a Ph.D. in Economics at the <a href="https://www.ucl.ac.uk/economics/ucl-department-economics](https://economics.ed.ac.uk/"> University of Edinburgh</a>, and I was a Research Associate at <a href="https://leas.uai.cl/"> Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
+Before joining Universidad Diego Portales, I completed a Ph.D. in Economics at the <a href="https://economics.ed.ac.uk/"> University of Edinburgh</a>, and I was a Research Associate at <a href="https://leas.uai.cl/"> Laboratory of Surveys and Social Analysis</a> (LEAS) hosted by Universidad Adolfo Ibañez.
 
 <hr>
 
