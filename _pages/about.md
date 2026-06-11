@@ -28,13 +28,19 @@ Before joining Universidad Diego Portales, I completed a Ph.D. in Economics at t
     "“The ideas of economists and political philosophers, both when they are right and when they are wrong are more powerful than is commonly understood. Indeed, the world is ruled by little else” – John Maynard Keynes",
     "“I believe economists put decimal points in their forecasts to show they have sense of humor” – William Gilmore Simms",
     "“People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices” – Adam Smith",
-    "“TIn mathematics you don't understand things. You just get used to them” – John von Neumann",
+    "“In mathematics you don't understand things. You just get used to them” – John von Neumann",
     "“We are all Keynesians now” – Milton Friedman",
     "“Economics is extremely useful as a form of employment for economists.” – John Kenneth Galbraith",
     "“The hardest thing in the world to understand is the income tax” – Albert Einstein",
     "“The purpose of studying economics is not to acquire a set of ready-made answers to economic questions, but to learn how to avoid being deceived by economists” – Joan Robinson",
     "“If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is” – John von Neumann",
-  ];
+    "“If you owe your bank a hundred pounds, you have a problem. But if you owe a million, it has” - John Maynard Keynes",
+    "“Markets can remain irrational longer than you can remain solvent” - John Maynard Keynes",
+    "“Those who would give up essential liberty to purchase a little temporary safety deserve neither liberty nor safety” - Friedrich Hayek",
+    "“It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own self-interest. We address ourselves not to their humanity but to their self-love, and never talk to them of our own necessities, but of their advantages” - Adam Smith",
+  "“Those who would give up essential liberty to purchase a little temporary safety deserve neither liberty nor safety” - Friedrich Hayek",
+  "“Once you start thinking about growth, it's hard to think about anything else.” - Robert Lucas",
+  "“If you torture the data long enough, it will confess.” - Ronald Coase"];
 
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   document.getElementById("quote").textContent = randomQuote;
