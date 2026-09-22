@@ -17,7 +17,8 @@ author_profile: true
     <details>
       <summary> Presented at </summary>
       <ul>
-        <li><em> Conference </em> - Society for Computational Economics (Scheduled) (2025)</li> 
+        <li><em> Conference </em> - Chilean Economic Society (2026)</li> 
+        <li><em> Conference </em> - Society for Computational Economics (2025)</li> 
         <li><em> Conference </em> - Scottish Economic Society (Scheduled) (2025)</li>  
         <li><em> Seminar </em> - Institute for Fiscal Studies (2025)</li>  
         <li><em> Seminar </em> - U. Diego Portales (2025)</li>
@@ -38,7 +39,7 @@ author_profile: true
     <details>
       <summary> Presented at </summary>
       <ul>
-        <li><em>Workshop on Policy Evaluation*</em> - MIPP & U. Chile (2023)</li>
+        <li><em>Workshop on Policy Evaluation</em> - MIPP & U. Chile (2024)</li>
         <li><em>Workshop on Gender and Labor Market Mismatch</em>- LM2C2 & PUC Chile (2024)</li>
         <li><em>Conference</em> - Chilean Public Policy Society (2023)</li>
         <li> <em> Conference for PhD Students</em> - Royal Economic Society (2023) </li>
@@ -57,6 +58,7 @@ author_profile: true
     <details>
       <summary> Presented at </summary>
       <ul>
+        <li><em>Conference*</em> - Universidad Diego Portales (2024) </li>
         <li><em>Conference*</em> - Spanish Association of Labor Economists (2024) </li>
         <li><em>Conference</em>- Swiss Society of Economics and Statistics (2024) </li>
         <li><em>Conference</em> - Rimini Centre for Economic Analysis Conference (2024) </li>
@@ -75,14 +77,6 @@ author_profile: true
       </ul>
     </details> 
 
-5. ["Transitions into and out of the gig economy"](/files/Gig_transitions.pdf) with Ricardo González (**R&R Information, Communication and Society**)
-    <details>
-      <summary> Abstract </summary>
-      <ul>
-        <li> The gig economy has transformed global labor markets, yet its dynamics in emerging economies, where informal labor is prevalent, still need to be explored. Furthermore, there is limited knowledge of how gig work interacts with traditional employment sectors and unemployment. This article analyzes the transitions between gig work, traditional employment, and unemployment in Chile, an emerging economy with significant informal employment. Using longitudinal data from Chile's National Employment Survey from 2021q1 to 2024q1, we use probit models to analyze transition probabilities between these three states. We find gig jobs generally serve as transitional roles rather than long-term employment solutions, with substantial turnover and frequent shifts to traditional employment. Individuals in part-time roles or working for smaller companies are more likely to transition into gig employment, whereas those in more stable jobs are less inclined to shift. Additionally, those in informal jobs tend to enter and remain in the gig economy. The study also shows that individuals with higher education are more drawn to gig work, indicating a labor market segmentation that could deepen income inequalities. These insights highlight the dual role of the gig economy in providing temporary relief from unemployment and informality while presenting challenges of stability and long-term job security. Finally, we situate our findings within the existing literature and discuss the broader implications for labor regulation in Chile and similar contexts.</li>
-      </ul>
-    </details> 
-
 ## Working papers - Social Networks
 
 1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz 
@@ -97,15 +91,23 @@ author_profile: true
 ## Publications
 ### Peer-Reviewed articles
 
-1. (2024) <a href="https://doi.org/10.1016/j.socnet.2024.06.002"> “Nonresponse in name generators across countries and survey modes”</a> with Ricardo Gonzalez and Esteban Muñoz. *Social Networks* 79: 93-103.
+1. (2026) “Populism as a problem of social segregation: Socioeconomic composition of personal networks and populist voting” with Ricardo Gonzalez, Bernardo Mackenna and Esteban Muñoz. Forthcoming *Social Forces*.
 
-2. (2021) <a href="https://doi.org/10.38178/07183089/165320629"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
+2. (2026) <a href="https://link.springer.com/article/10.1007/s11205-026-03845-5"> “Improving the measurement of household composition in cross-national self-administered surveys”</a> with Dörte Naber and Ricardo Gonzalez. *Social Indicators Research* 183, Art. 4.
 
-3. (2020) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
+3. (2025) <a href="https://doi.org/10.1080/1369118X.2025.2576798"> “Understanding adolescent engagement in media web surveys: how question design shapes nonresponse”</a> with Dörte Naber and Ricardo Gonzalez. *Information, Communication & Society* 29(9): 2504–2525.
 
-4. (2019) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
+4. (2025) <a href="https://doi.org/10.1080/1369118X.2025.2496896"> “Transitions into and out of the gig economy”</a> with Ricardo Gonzalez. *Information, Communication & Society* 28(16): 3049-3065.
 
-5. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/00207659.2019.1709138#:~:text=In%20sum%2C%20our%20results%20suggest,countries%20with%20low%20income%20inequality.">“The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
+5. (2024) <a href="https://doi.org/10.1016/j.socnet.2024.06.002"> “Nonresponse in name generators across countries and survey modes”</a> with Ricardo Gonzalez and Esteban Muñoz. *Social Networks* 79: 93-103.
+
+6. (2021) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/1968/3205"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
+
+7. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/00207659.2019.1709138"> “On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
+
+8. (2019) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/11/12"> “The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
+
+9. (2018) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/43/48"> “The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
 
 ### Book Chapters
 
