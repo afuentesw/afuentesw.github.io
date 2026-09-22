@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching/
-author_profile: true
+permalink: 
+author_profile: false
 ---
 
 ## University of Edinburgh - Instructor (2024-)
