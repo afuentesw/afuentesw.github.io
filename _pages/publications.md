@@ -14,37 +14,12 @@ author_profile: true
         <li>Starting a labor career in a formal or informal job significantly impacts labor market outcomes due to differences in productivity, human capital accumulation, job destruction rates, and the presence of a minimum wage. To quantify this, I propose a frictional labor market model with two sectors and firm heterogeneity in productivity and destruction rates, where workers search off- and on-the-job and accumulate human capital, generating a three-dimensional job ladder. I calibrate the model using survey and administrative Chilean data. The model shows that, on average, the value of a formal job is equivalent to a lump sum payment of 13.5 minimum wages, with this value decreasing as human capital rises. Also, starting with a formal job leads to at least 6.5% higher total earnings after five years. Finally, productivity and offer arrival rates drive the difference between sectors, with job safety and human capital accumulation playing secondary roles.</li>
       </ul>
     </details>
-    <details>
-      <summary> Presented at </summary>
-      <ul>
-        <li><em> Conference </em> - Chilean Economic Society (2026)</li> 
-        <li><em> Conference </em> - Society for Computational Economics (2025)</li> 
-        <li><em> Conference </em> - Scottish Economic Society (Scheduled) (2025)</li>  
-        <li><em> Seminar </em> - Institute for Fiscal Studies (2025)</li>  
-        <li><em> Seminar </em> - U. Diego Portales (2025)</li>
-        <li><em> Conference </em> - Scottish Graduate Programme in Economics (2025) [<b>PhD Student Presentation Prize</b>] </li>
-        <li><em>Workshop on Gender and Labor Market Mismatch</em> - LM2C2 & PUC Chile (2024)</li>
-        <li><em>Conference</em>- European Association of Labour Economists: Job Market Session (2024)</li>
-        <li><em>Macro Reading Group</em> - University of Edinburgh (2023 & 2024)</li>
-      </ul>
-    </details>
     
 2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
     <details>
       <summary> Abstract </summary>
       <ul>
         <li> This paper studies the evolution of labor informality in Chile with a twofold contribution. First, I propose a measurement of informality between 1990 and 2020 that is consistent with administrative records and surprisingly stable. This is counter-intuitive since Chile experienced an increase in tertiary education in that period, often linked to a reduction of informality. Second, I adapt a search and matching model that explains the decrease in labor informality in Brazil to the Chilean case, and I estimate it using data from 2006-2017. The model is focused on the general equilibrium effects that affect informality when the skill composition of the workforce changes. I find that increases in the real minimum wages and decreasing TFP offset the impact of tertiary education, contributing to stable informality levels. This highlights differences between the Brazilian and Chilean economies, revealing potential diminishing returns to the effect of education on informality.</li>
-      </ul>
-    </details>
-    <details>
-      <summary> Presented at </summary>
-      <ul>
-        <li><em>Workshop on Policy Evaluation</em> - MIPP & U. Chile (2024)</li>
-        <li><em>Workshop on Gender and Labor Market Mismatch</em>- LM2C2 & PUC Chile (2024)</li>
-        <li><em>Conference</em> - Chilean Public Policy Society (2023)</li>
-        <li> <em> Conference for PhD Students</em> - Royal Economic Society (2023) </li>
-          <li> <em> Conference </em> - Scottish Graduate Programme in Economics (2022) </li>
-          <li> <em> Macro Reading Group and Ph.D. Seminar </em> - University of Edinburgh (2021 & 2022) </li>
       </ul>
     </details>
 
@@ -55,19 +30,6 @@ author_profile: true
         <li> This paper explores the implications of tertiary education expansion in Chile from 2010 to 2019, mainly focusing on how large firms substitute workers with varying qualifications and experience. Despite a significant increase in the share of tertiary-educated workers, reaching 45 percent, there is no substantial decline in the wage premium associated with college-educated workers. Regarding occupations, we found a notable mismatch between educational attainment and job requirements, where most workers with higher vocational education find themselves overqualified, leading to a potential displacement of those workers by their college-educated counterparts. Then, we propose a novel model estimated through administrative data, and we found close-to-perfect substitutability between workers with higher vocational and college education. Finally, we emphasize the need to differentiate programs at each educational level to generate a more effective integration in the labor markets.</li>
       </ul>
     </details> 
-    <details>
-      <summary> Presented at </summary>
-      <ul>
-        <li><em>Conference*</em> - Universidad Diego Portales (2024) </li>
-        <li><em>Conference*</em> - Spanish Association of Labor Economists (2024) </li>
-        <li><em>Conference</em>- Swiss Society of Economics and Statistics (2024) </li>
-        <li><em>Conference</em> - Rimini Centre for Economic Analysis Conference (2024) </li>
-        <li> <em> Conference </em> - Scottish Economic Society (2024) </li>
-        <li> <em> Conference </em> - Rurh Graduate School of Economics Doctoral Conference (2024) </li>
-        <li> <em> Conference </em> - Chilean Public Policy Society (2023) </li>
-        <li> <em> Ph.D. Seminar </em> - University of Edinburgh (2023) </li>
-      </ul>
-    </details>
     
 4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
     <details>
@@ -80,12 +42,6 @@ author_profile: true
 ## Working papers - Social Networks
 
 1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz 
-    <details>
-      <summary> Presented at </summary>
-      <ul>
-        <li><em>Conference</em> - World Association for Public Opinion Research (2023) [<b>Alexis de Tocqueville Award</b>] </li>
-      </ul>
-    </details>
 
 
 ## Publications
