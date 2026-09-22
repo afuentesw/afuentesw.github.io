@@ -5,7 +5,7 @@ permalink: /policy/
 author_profile: true
 ---
 
-## Policy Briefs
+## Policy
 * (2026) ["Analysis of SENCE's Tax Training Incentive"](https://ocec.udp.cl/proyecto/documento-de-trabajo-n46-analisis-a-la-franquicia-tributaria-del-sence/) (in Spanish). *Documento de Trabajo 47*. Observatorio del Contexto Económico UDP
 
 * (2026) ["Social capital in Chile: Evolution between 2015 and 2024"](https://ocec.udp.cl/proyecto/informe-n-79-capital-social-en-chile-evolucion-entre-2015-y-2024/) (in Spanish). *Informe 79*. Observatorio del Contexto Económico UDP
