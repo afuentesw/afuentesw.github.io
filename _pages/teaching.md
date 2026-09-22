@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: 
-author_profile: false
+author_profile: true
 ---
 
 ## University of Edinburgh - Instructor (2024-)
