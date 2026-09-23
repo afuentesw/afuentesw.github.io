@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers - Macroeconomics and Labor Economics
 
-1. ["The value of a formal job"](/files/Informality_and_job_ladder.pdf) (**Job Market Paper**)
+* ["The value of a formal job"](/files/Informality_and_job_ladder.pdf)
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -15,7 +15,7 @@ author_profile: true
       </ul>
     </details>
     
-2. ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
+* ["When education is not enough: Explaining labor informality inertia in Chile"](/files/Informality_and_education.pdf)
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -23,7 +23,7 @@ author_profile: true
       </ul>
     </details>
 
-3. ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
+* ["How substitutable are high-skilled workers? The case of expansion of tertiary education in Chile"](/files/Elasticity_of_substitution.pdf) with Roberto Cases
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -31,7 +31,7 @@ author_profile: true
       </ul>
     </details> 
     
-4. ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
+* ["Exploring the determinants of gig economy wages in a digitalized emerging market"](/files/Gig_wages.pdf) with Ricardo González
     <details>
       <summary> Abstract </summary>
       <ul>
@@ -41,7 +41,7 @@ author_profile: true
 
 ## Working papers - Social Networks
 
-1. "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz 
+* "Breaking the populist spell: A comparative study of the association between interpersonal ties and populist preferences" with Ricardo González, Bernardo Mackenna and Esteban Muñoz 
 
 
 ## Publications
