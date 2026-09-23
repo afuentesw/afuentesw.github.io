@@ -47,26 +47,26 @@ author_profile: true
 ## Publications
 ### Peer-Reviewed articles
 
-1. (2026) “Populism as a problem of social segregation: Socioeconomic composition of personal networks and populist voting” with Ricardo Gonzalez, Bernardo Mackenna and Esteban Muñoz. Forthcoming *Social Forces*.
+* (2026) “Populism as a problem of social segregation: Socioeconomic composition of personal networks and populist voting” with Ricardo Gonzalez, Bernardo Mackenna and Esteban Muñoz. Forthcoming *Social Forces*.
 
-2. (2026) <a href="https://link.springer.com/article/10.1007/s11205-026-03845-5"> “Improving the measurement of household composition in cross-national self-administered surveys”</a> with Dörte Naber and Ricardo Gonzalez. *Social Indicators Research* 183, Art. 4.
+* (2026) <a href="https://link.springer.com/article/10.1007/s11205-026-03845-5"> “Improving the measurement of household composition in cross-national self-administered surveys”</a> with Dörte Naber and Ricardo Gonzalez. *Social Indicators Research* 183, Art. 4.
 
-3. (2025) <a href="https://doi.org/10.1080/1369118X.2025.2576798"> “Understanding adolescent engagement in media web surveys: how question design shapes nonresponse”</a> with Dörte Naber and Ricardo Gonzalez. *Information, Communication & Society* 29(9): 2504–2525.
+* (2025) <a href="https://doi.org/10.1080/1369118X.2025.2576798"> “Understanding adolescent engagement in media web surveys: how question design shapes nonresponse”</a> with Dörte Naber and Ricardo Gonzalez. *Information, Communication & Society* 29(9): 2504–2525.
 
-4. (2025) <a href="https://doi.org/10.1080/1369118X.2025.2496896"> “Transitions into and out of the gig economy”</a> with Ricardo Gonzalez. *Information, Communication & Society* 28(16): 3049-3065.
+* (2025) <a href="https://doi.org/10.1080/1369118X.2025.2496896"> “Transitions into and out of the gig economy”</a> with Ricardo Gonzalez. *Information, Communication & Society* 28(16): 3049-3065.
 
-5. (2024) <a href="https://doi.org/10.1016/j.socnet.2024.06.002"> “Nonresponse in name generators across countries and survey modes”</a> with Ricardo Gonzalez and Esteban Muñoz. *Social Networks* 79: 93-103.
+* (2024) <a href="https://doi.org/10.1016/j.socnet.2024.06.002"> “Nonresponse in name generators across countries and survey modes”</a> with Ricardo Gonzalez and Esteban Muñoz. *Social Networks* 79: 93-103.
 
-6. (2021) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/1968/3205"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
+* (2021) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/1968/3205"> “Personal income tax in Chile: Simulations with other OECD countries’ structure”</a> (only abstract in English) with Rodrigo Vergara. *Estudios Públicos* 161: 69-111.
 
-7. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/00207659.2019.1709138"> “On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
+* (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/00207659.2019.1709138"> “On social capital and health: The moderating role of income inequality in comparative perspective”</a> with Ricardo Gonzalez and Esteban Muñoz. *International Journal of Sociology* 50(1): 68-85.
 
-8. (2019) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/11/12"> “The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
+* (2019) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/11/12"> “The value of personal connections: Resource generator and labor market in Chile”</a>, Estudios Públicos 156: 69-105.
 
-9. (2018) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/43/48"> “The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
+* (2018) <a href="https://www.estudiospublicos.cl/index.php/cep/article/view/43/48"> “The public wage premium and its evolution in the period 1990-2017”</a> (only abstract in English) with Rodrigo Vergara, Estudios Públicos 152: 7-45.
 
 ### Book Chapters
 
-1. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “The immigrants in the labor market”</a> (in Spanish) with Rodrigo Vergara, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 65-99. Santiago de Chile: Fondo de Cultura Económica
+* (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “The immigrants in the labor market”</a> (in Spanish) with Rodrigo Vergara, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 65-99. Santiago de Chile: Fondo de Cultura Económica
 
-2. (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “Statistical characterization of immigration in Chile” </a> (in Spanish) with Andrés Hernando, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 379-407. Santiago de Chile: Fondo de Cultura Económica.
+* (2019) <a href="https://www.cepchile.cl/wp-content/uploads/2022/09/librocep_inmigracion.pdf"> “Statistical characterization of immigration in Chile” </a> (in Spanish) with Andrés Hernando, in Isabel Aninat and Rodrigo Vergara (Eds.) *Immigration in Chile. A multidimensional view*, pp. 379-407. Santiago de Chile: Fondo de Cultura Económica.
