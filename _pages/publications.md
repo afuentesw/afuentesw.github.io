@@ -47,7 +47,7 @@ author_profile: true
 ## Publications
 ### Peer-Reviewed articles
 
-* (2026) <a href="doi.org/10.1093/sf/soag148">“Populism as a problem of social segregation: Socioeconomic composition of personal networks and populist voting”</a> with Ricardo Gonzalez, Bernardo Mackenna and Esteban Muñoz. Forthcoming *Social Forces*.
+* (2026) <a href="https://doi.org/10.1093/sf/soag148">“Populism as a problem of social segregation: Socioeconomic composition of personal networks and populist voting”</a> with Ricardo Gonzalez, Bernardo Mackenna and Esteban Muñoz. Forthcoming *Social Forces*.
 
 * (2026) <a href="https://link.springer.com/article/10.1007/s11205-026-03845-5"> “Improving the measurement of household composition in cross-national self-administered surveys”</a> with Dörte Naber and Ricardo Gonzalez. *Social Indicators Research* 183, Art. 4.
 
